@@ -1,1 +1,1 @@
-Live demo for this website :(http://127.0.0.1:5500/index.html)
+Live demo for this website : https://rushi-aher.github.io/Basic-Projects-Task-1/
